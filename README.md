@@ -11,8 +11,8 @@
 # Education
 * 2017년 한림대학교 공과대학 컴퓨터공학과 입학
 * 2018년 한림대학교 소프트웨어융합대학 빅데이터전공
-	    한림대학교 글로벌융합대학 정보법과학전공 복수전공
-    	Da La Salle University, Araneta 단기연수
+*	 한림대학교 글로벌융합대학 정보법과학전공 복수전공
+*   	Da La Salle University, Araneta 단기연수
       
 # Courses that I taken
 * 유헬스프로그래밍1,2
